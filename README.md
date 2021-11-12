@@ -1,5 +1,7 @@
 # get_next_line
 
-21 school project at 1st circle.
-For more information about project check subject.pdf
-Checked by peers, by moulinette, 100/100 (no bonuses).
+Проект 1го круга Школы 21.
+
+Суть проекта - создать функцию, аналогичную getline, позволяющую нам считывать по строке из файла или из коммандной строки (до '\n')
+
+Для подробной информации - subject.pdf
